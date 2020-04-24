@@ -5,3 +5,5 @@ To run this project, you can open command prompt, cd to this project and execute
 ```bash
 python main.py
 ```
+
+The app will automatically turn on debugging mode.
